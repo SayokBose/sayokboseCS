@@ -55,7 +55,7 @@ export const NavBar = () => {
                 <a href="https://www.instagram.com/sayokarts/?hl=en" target="_blank" ><img src={navIcon3} alt="" /></a>
               </div>
               <a href= {resume} target="_blank" className="vvd">
-                <button><span>My Resume</span></button>
+                <button><span>My Resume!</span></button>
               </a>
             </span>
           </Navbar.Collapse>
