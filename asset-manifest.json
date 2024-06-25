@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sayokboseCS/static/css/main.851f15f3.css",
-    "main.js": "/sayokboseCS/static/js/main.431fc287.js",
+    "main.js": "/sayokboseCS/static/js/main.b8a29ee9.js",
     "static/js/787.fb771931.chunk.js": "/sayokboseCS/static/js/787.fb771931.chunk.js",
     "static/media/r1.JPG": "/sayokboseCS/static/media/r1.ca5e9e53066761ef189b.JPG",
     "static/media/p1.JPG": "/sayokboseCS/static/media/p1.f7917b2773cb1049fb68.JPG",
@@ -26,7 +26,7 @@
     "static/media/logo2.png": "/sayokboseCS/static/media/logo2.1174e744b00de501e1a4.png",
     "static/media/python.png": "/sayokboseCS/static/media/python.dea924d737bb84eb9ce3.png",
     "static/media/wordle.JPEG": "/sayokboseCS/static/media/wordle.5c45b4eb5cef57e1da1a.JPEG",
-    "static/media/resume.pdf": "/sayokboseCS/static/media/resume.2b05592c8ca0039e3868.pdf",
+    "static/media/resume.pdf": "/sayokboseCS/static/media/resume.edd6da8af9b6df05f1b2.pdf",
     "static/media/me3.png": "/sayokboseCS/static/media/me3.5ad628dc922cb7801ecd.png",
     "static/media/r5.JPG": "/sayokboseCS/static/media/r5.31248aeaff8fef267c9f.JPG",
     "static/media/react.png": "/sayokboseCS/static/media/react.3e9820dc44ddde88975e.png",
@@ -43,11 +43,11 @@
     "static/media/nav-icon1.svg": "/sayokboseCS/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/sayokboseCS/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.851f15f3.css.map": "/sayokboseCS/static/css/main.851f15f3.css.map",
-    "main.431fc287.js.map": "/sayokboseCS/static/js/main.431fc287.js.map",
+    "main.b8a29ee9.js.map": "/sayokboseCS/static/js/main.b8a29ee9.js.map",
     "787.fb771931.chunk.js.map": "/sayokboseCS/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.851f15f3.css",
-    "static/js/main.431fc287.js"
+    "static/js/main.b8a29ee9.js"
   ]
 }
